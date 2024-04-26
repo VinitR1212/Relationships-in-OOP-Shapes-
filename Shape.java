@@ -1,5 +1,6 @@
-public abstract class Shape
-  {
+import java.util.Scanner;
+
+public abstract class Shape {
     protected double[] sides;
 
     public Shape(double... sides) {
