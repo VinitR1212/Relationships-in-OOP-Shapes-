@@ -1,4 +1,4 @@
-class Triangle extends Polygon {
+class Triangle extends Shape {
     public Triangle(double side) {
         super(side, side, side);
     }
