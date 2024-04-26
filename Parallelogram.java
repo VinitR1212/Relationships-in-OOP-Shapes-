@@ -1,4 +1,4 @@
-class Parallelogram extends Polygon {
+class Parallelogram extends Shape {
     public Parallelogram(double base, double height) {
         super(base, height, base, height);
     }
